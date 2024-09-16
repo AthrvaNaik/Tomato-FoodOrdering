@@ -4,6 +4,10 @@
 
 This is a full-stack food delivery website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application provides a comprehensive solution for managing food orders, including user functionalities, an admin panel, and payment integration with Stripe.
 
+## Live Websites
+**User Frontend**:https://tomato-foodordering-frontend.onrender.com/
+**Admin Panel**:https://tomato-foodordering-admin.onrender.com/
+
 ## Features
 
 ### User Functionalities
