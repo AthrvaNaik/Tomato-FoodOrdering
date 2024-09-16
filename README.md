@@ -100,12 +100,12 @@ This is a full-stack food delivery website built using the MERN (MongoDB, Expres
    
 ### Admin Panel
 
-1. **Navigate to the Frontend Directory:**
+1. **Navigate to the Directory:**
    ```bash
    cd Admin
    ```
 
-2. **Install Frontend Dependencies:**
+2. **Install Dependencies:**
    ```bash
    npm install axios react-toastify react-router-dom
    ```
